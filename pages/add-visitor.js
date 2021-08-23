@@ -525,14 +525,7 @@ class AddVisitor extends PureComponent {
             Add <FontAwesomeIcon className="lgs" icon={faSignInAlt} />
           </button>
 
-          <div className="text-center mgp-t-2">
-            <p>
-              Already have an account?
-              <Link href="login">
-                <a>Login</a>
-              </Link>
-            </p>
-          </div>
+          
         </form>
       </>
     );

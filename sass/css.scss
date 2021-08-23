@@ -65,7 +65,13 @@ body {
   float: left;
   text-align: center;
   margin-bottom: 5%;
+
+  svg{
+    width: 1.25em !important;
+  }
 }
+
+
 
 .lgs {
   margin: auto 0;

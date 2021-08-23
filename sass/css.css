@@ -66,6 +66,10 @@ body {
   margin-bottom: 5%;
 }
 
+.sgn svg {
+  width: 1.25em !important;
+}
+
 .lgs {
   margin: auto 0;
   margin-left: 1%;
